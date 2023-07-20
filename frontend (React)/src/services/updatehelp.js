@@ -51,7 +51,7 @@ export const update = (lpr,time) => {
         url: 'https://license-plate-detection.p.rapidapi.com/license-plate-detection',
         headers: {
           'content-type': 'application/json',
-          'X-RapidAPI-Key': '11be6e3f50mshfe6e35d0610e6c4p1002b1jsn7e09fd29f8e6',
+          'X-RapidAPI-Key': '<private api key>',
           'X-RapidAPI-Host': 'license-plate-detection.p.rapidapi.com'
         },
         data: {
