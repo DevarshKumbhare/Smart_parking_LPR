@@ -1,0 +1,7 @@
+
+.cen{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding: 50px;
+}

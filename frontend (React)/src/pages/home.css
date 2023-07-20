@@ -1,0 +1,9 @@
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+}
+.flex-container > div {
+    width : 25%;
+    margin-top: 50px;
+}
